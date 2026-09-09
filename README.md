@@ -41,7 +41,6 @@ Each school/departments is represented as a node, and two schools are connected 
 
 The `courses*.txt` files contain the network data used for community detection.
 
-* `courses.txt`: network without an edge-weight threshold.
 * `courses1.txt`: threshold = 1.
 * `courses2.txt`: threshold = 2.
 * `courses3.txt`: threshold = 3.
